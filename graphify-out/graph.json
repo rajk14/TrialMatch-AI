@@ -1,0 +1,1270 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "server.ts",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L1",
+      "id": "server_ts",
+      "community": 9,
+      "norm_label": "server.ts"
+    },
+    {
+      "label": "startServer()",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L9",
+      "id": "server_startserver",
+      "community": 9,
+      "norm_label": "startserver()"
+    },
+    {
+      "label": "vite.config.ts",
+      "file_type": "code",
+      "source_file": "vite.config.ts",
+      "source_location": "L1",
+      "id": "vite_config_ts",
+      "community": 19,
+      "norm_label": "vite.config.ts"
+    },
+    {
+      "label": "badge.tsx",
+      "file_type": "code",
+      "source_file": "components\\ui\\badge.tsx",
+      "source_location": "L1",
+      "id": "components_ui_badge_tsx",
+      "community": 4,
+      "norm_label": "badge.tsx"
+    },
+    {
+      "label": "Badge()",
+      "file_type": "code",
+      "source_file": "components\\ui\\badge.tsx",
+      "source_location": "L30",
+      "id": "badge_badge",
+      "community": 4,
+      "norm_label": "badge()"
+    },
+    {
+      "label": "button.tsx",
+      "file_type": "code",
+      "source_file": "components\\ui\\button.tsx",
+      "source_location": "L1",
+      "id": "components_ui_button_tsx",
+      "community": 10,
+      "norm_label": "button.tsx"
+    },
+    {
+      "label": "cn()",
+      "file_type": "code",
+      "source_file": "components\\ui\\button.tsx",
+      "source_location": "L52",
+      "id": "button_cn",
+      "community": 10,
+      "norm_label": "cn()"
+    },
+    {
+      "label": "card.tsx",
+      "file_type": "code",
+      "source_file": "components\\ui\\card.tsx",
+      "source_location": "L1",
+      "id": "components_ui_card_tsx",
+      "community": 5,
+      "norm_label": "card.tsx"
+    },
+    {
+      "label": "cn()",
+      "file_type": "code",
+      "source_file": "components\\ui\\card.tsx",
+      "source_location": "L14",
+      "id": "card_cn",
+      "community": 5,
+      "norm_label": "cn()"
+    },
+    {
+      "label": "CardAction()",
+      "file_type": "code",
+      "source_file": "components\\ui\\card.tsx",
+      "source_location": "L59",
+      "id": "card_cardaction",
+      "community": 5,
+      "norm_label": "cardaction()"
+    },
+    {
+      "label": "checkbox.tsx",
+      "file_type": "code",
+      "source_file": "components\\ui\\checkbox.tsx",
+      "source_location": "L1",
+      "id": "components_ui_checkbox_tsx",
+      "community": 11,
+      "norm_label": "checkbox.tsx"
+    },
+    {
+      "label": "Checkbox()",
+      "file_type": "code",
+      "source_file": "components\\ui\\checkbox.tsx",
+      "source_location": "L6",
+      "id": "checkbox_checkbox",
+      "community": 11,
+      "norm_label": "checkbox()"
+    },
+    {
+      "label": "dialog.tsx",
+      "file_type": "code",
+      "source_file": "components\\ui\\dialog.tsx",
+      "source_location": "L1",
+      "id": "components_ui_dialog_tsx",
+      "community": 2,
+      "norm_label": "dialog.tsx"
+    },
+    {
+      "label": "Dialog()",
+      "file_type": "code",
+      "source_file": "components\\ui\\dialog.tsx",
+      "source_location": "L10",
+      "id": "dialog_dialog",
+      "community": 2,
+      "norm_label": "dialog()"
+    },
+    {
+      "label": "DialogTrigger()",
+      "file_type": "code",
+      "source_file": "components\\ui\\dialog.tsx",
+      "source_location": "L14",
+      "id": "dialog_dialogtrigger",
+      "community": 2,
+      "norm_label": "dialogtrigger()"
+    },
+    {
+      "label": "DialogPortal()",
+      "file_type": "code",
+      "source_file": "components\\ui\\dialog.tsx",
+      "source_location": "L18",
+      "id": "dialog_dialogportal",
+      "community": 2,
+      "norm_label": "dialogportal()"
+    },
+    {
+      "label": "DialogClose()",
+      "file_type": "code",
+      "source_file": "components\\ui\\dialog.tsx",
+      "source_location": "L22",
+      "id": "dialog_dialogclose",
+      "community": 2,
+      "norm_label": "dialogclose()"
+    },
+    {
+      "label": "cn()",
+      "file_type": "code",
+      "source_file": "components\\ui\\dialog.tsx",
+      "source_location": "L55",
+      "id": "dialog_cn",
+      "community": 2,
+      "norm_label": "cn()"
+    },
+    {
+      "label": "input.tsx",
+      "file_type": "code",
+      "source_file": "components\\ui\\input.tsx",
+      "source_location": "L1",
+      "id": "components_ui_input_tsx",
+      "community": 12,
+      "norm_label": "input.tsx"
+    },
+    {
+      "label": "Input()",
+      "file_type": "code",
+      "source_file": "components\\ui\\input.tsx",
+      "source_location": "L6",
+      "id": "input_input",
+      "community": 12,
+      "norm_label": "input()"
+    },
+    {
+      "label": "label.tsx",
+      "file_type": "code",
+      "source_file": "components\\ui\\label.tsx",
+      "source_location": "L1",
+      "id": "components_ui_label_tsx",
+      "community": 13,
+      "norm_label": "label.tsx"
+    },
+    {
+      "label": "cn()",
+      "file_type": "code",
+      "source_file": "components\\ui\\label.tsx",
+      "source_location": "L9",
+      "id": "label_cn",
+      "community": 13,
+      "norm_label": "cn()"
+    },
+    {
+      "label": "progress.tsx",
+      "file_type": "code",
+      "source_file": "components\\ui\\progress.tsx",
+      "source_location": "L1",
+      "id": "components_ui_progress_tsx",
+      "community": 6,
+      "norm_label": "progress.tsx"
+    },
+    {
+      "label": "Progress()",
+      "file_type": "code",
+      "source_file": "components\\ui\\progress.tsx",
+      "source_location": "L7",
+      "id": "progress_progress",
+      "community": 6,
+      "norm_label": "progress()"
+    },
+    {
+      "label": "ProgressTrack()",
+      "file_type": "code",
+      "source_file": "components\\ui\\progress.tsx",
+      "source_location": "L28",
+      "id": "progress_progresstrack",
+      "community": 6,
+      "norm_label": "progresstrack()"
+    },
+    {
+      "label": "scroll-area.tsx",
+      "file_type": "code",
+      "source_file": "components\\ui\\scroll-area.tsx",
+      "source_location": "L1",
+      "id": "components_ui_scroll_area_tsx",
+      "community": 7,
+      "norm_label": "scroll-area.tsx"
+    },
+    {
+      "label": "ScrollArea()",
+      "file_type": "code",
+      "source_file": "components\\ui\\scroll-area.tsx",
+      "source_location": "L6",
+      "id": "scroll_area_scrollarea",
+      "community": 7,
+      "norm_label": "scrollarea()"
+    },
+    {
+      "label": "ScrollBar()",
+      "file_type": "code",
+      "source_file": "components\\ui\\scroll-area.tsx",
+      "source_location": "L29",
+      "id": "scroll_area_scrollbar",
+      "community": 7,
+      "norm_label": "scrollbar()"
+    },
+    {
+      "label": "select.tsx",
+      "file_type": "code",
+      "source_file": "components\\ui\\select.tsx",
+      "source_location": "L1",
+      "id": "components_ui_select_tsx",
+      "community": 0,
+      "norm_label": "select.tsx"
+    },
+    {
+      "label": "SelectGroup()",
+      "file_type": "code",
+      "source_file": "components\\ui\\select.tsx",
+      "source_location": "L11",
+      "id": "select_selectgroup",
+      "community": 0,
+      "norm_label": "selectgroup()"
+    },
+    {
+      "label": "SelectValue()",
+      "file_type": "code",
+      "source_file": "components\\ui\\select.tsx",
+      "source_location": "L21",
+      "id": "select_selectvalue",
+      "community": 0,
+      "norm_label": "selectvalue()"
+    },
+    {
+      "label": "SelectTrigger()",
+      "file_type": "code",
+      "source_file": "components\\ui\\select.tsx",
+      "source_location": "L31",
+      "id": "select_selecttrigger",
+      "community": 0,
+      "norm_label": "selecttrigger()"
+    },
+    {
+      "label": "SelectContent()",
+      "file_type": "code",
+      "source_file": "components\\ui\\select.tsx",
+      "source_location": "L59",
+      "id": "select_selectcontent",
+      "community": 0,
+      "norm_label": "selectcontent()"
+    },
+    {
+      "label": "SelectLabel()",
+      "file_type": "code",
+      "source_file": "components\\ui\\select.tsx",
+      "source_location": "L98",
+      "id": "select_selectlabel",
+      "community": 0,
+      "norm_label": "selectlabel()"
+    },
+    {
+      "label": "SelectItem()",
+      "file_type": "code",
+      "source_file": "components\\ui\\select.tsx",
+      "source_location": "L111",
+      "id": "select_selectitem",
+      "community": 0,
+      "norm_label": "selectitem()"
+    },
+    {
+      "label": "SelectSeparator()",
+      "file_type": "code",
+      "source_file": "components\\ui\\select.tsx",
+      "source_location": "L139",
+      "id": "select_selectseparator",
+      "community": 0,
+      "norm_label": "selectseparator()"
+    },
+    {
+      "label": "SelectScrollUpButton()",
+      "file_type": "code",
+      "source_file": "components\\ui\\select.tsx",
+      "source_location": "L152",
+      "id": "select_selectscrollupbutton",
+      "community": 0,
+      "norm_label": "selectscrollupbutton()"
+    },
+    {
+      "label": "SelectScrollDownButton()",
+      "file_type": "code",
+      "source_file": "components\\ui\\select.tsx",
+      "source_location": "L171",
+      "id": "select_selectscrolldownbutton",
+      "community": 0,
+      "norm_label": "selectscrolldownbutton()"
+    },
+    {
+      "label": "separator.tsx",
+      "file_type": "code",
+      "source_file": "components\\ui\\separator.tsx",
+      "source_location": "L1",
+      "id": "components_ui_separator_tsx",
+      "community": 14,
+      "norm_label": "separator.tsx"
+    },
+    {
+      "label": "cn()",
+      "file_type": "code",
+      "source_file": "components\\ui\\separator.tsx",
+      "source_location": "L14",
+      "id": "separator_cn",
+      "community": 14,
+      "norm_label": "cn()"
+    },
+    {
+      "label": "slider.tsx",
+      "file_type": "code",
+      "source_file": "components\\ui\\slider.tsx",
+      "source_location": "L1",
+      "id": "components_ui_slider_tsx",
+      "community": 20,
+      "norm_label": "slider.tsx"
+    },
+    {
+      "label": "tabs.tsx",
+      "file_type": "code",
+      "source_file": "components\\ui\\tabs.tsx",
+      "source_location": "L1",
+      "id": "components_ui_tabs_tsx",
+      "community": 15,
+      "norm_label": "tabs.tsx"
+    },
+    {
+      "label": "cn()",
+      "file_type": "code",
+      "source_file": "components\\ui\\tabs.tsx",
+      "source_location": "L60",
+      "id": "tabs_cn",
+      "community": 15,
+      "norm_label": "cn()"
+    },
+    {
+      "label": "textarea.tsx",
+      "file_type": "code",
+      "source_file": "components\\ui\\textarea.tsx",
+      "source_location": "L1",
+      "id": "components_ui_textarea_tsx",
+      "community": 16,
+      "norm_label": "textarea.tsx"
+    },
+    {
+      "label": "cn()",
+      "file_type": "code",
+      "source_file": "components\\ui\\textarea.tsx",
+      "source_location": "L9",
+      "id": "textarea_cn",
+      "community": 16,
+      "norm_label": "cn()"
+    },
+    {
+      "label": "utils.ts",
+      "file_type": "code",
+      "source_file": "lib\\utils.ts",
+      "source_location": "L1",
+      "id": "lib_utils_ts",
+      "community": 4,
+      "norm_label": "utils.ts"
+    },
+    {
+      "label": "cn()",
+      "file_type": "code",
+      "source_file": "lib\\utils.ts",
+      "source_location": "L4",
+      "id": "utils_cn",
+      "community": 4,
+      "norm_label": "cn()"
+    },
+    {
+      "label": "App.tsx",
+      "file_type": "code",
+      "source_file": "src\\App.tsx",
+      "source_location": "L1",
+      "id": "src_app_tsx",
+      "community": 1,
+      "norm_label": "app.tsx"
+    },
+    {
+      "label": "showToast()",
+      "file_type": "code",
+      "source_file": "src\\App.tsx",
+      "source_location": "L99",
+      "id": "app_showtoast",
+      "community": 1,
+      "norm_label": "showtoast()"
+    },
+    {
+      "label": "handleDemo()",
+      "file_type": "code",
+      "source_file": "src\\App.tsx",
+      "source_location": "L129",
+      "id": "app_handledemo",
+      "community": 1,
+      "norm_label": "handledemo()"
+    },
+    {
+      "label": "handleDemoInstant()",
+      "file_type": "code",
+      "source_file": "src\\App.tsx",
+      "source_location": "L134",
+      "id": "app_handledemoinstant",
+      "community": 1,
+      "norm_label": "handledemoinstant()"
+    },
+    {
+      "label": "startIntake()",
+      "file_type": "code",
+      "source_file": "src\\App.tsx",
+      "source_location": "L209",
+      "id": "app_startintake",
+      "community": 1,
+      "norm_label": "startintake()"
+    },
+    {
+      "label": "handleIntakeSubmit()",
+      "file_type": "code",
+      "source_file": "src\\App.tsx",
+      "source_location": "L214",
+      "id": "app_handleintakesubmit",
+      "community": 1,
+      "norm_label": "handleintakesubmit()"
+    },
+    {
+      "label": "analyzeIndividualTrial()",
+      "file_type": "code",
+      "source_file": "src\\App.tsx",
+      "source_location": "L232",
+      "id": "app_analyzeindividualtrial",
+      "community": 3,
+      "norm_label": "analyzeindividualtrial()"
+    },
+    {
+      "label": "handleTrialClick()",
+      "file_type": "code",
+      "source_file": "src\\App.tsx",
+      "source_location": "L241",
+      "id": "app_handletrialclick",
+      "community": 1,
+      "norm_label": "handletrialclick()"
+    },
+    {
+      "label": "toggleSaveTrial()",
+      "file_type": "code",
+      "source_file": "src\\App.tsx",
+      "source_location": "L246",
+      "id": "app_togglesavetrial",
+      "community": 1,
+      "norm_label": "togglesavetrial()"
+    },
+    {
+      "label": "showFooterInfo()",
+      "file_type": "code",
+      "source_file": "src\\App.tsx",
+      "source_location": "L286",
+      "id": "app_showfooterinfo",
+      "community": 1,
+      "norm_label": "showfooterinfo()"
+    },
+    {
+      "label": "main.tsx",
+      "file_type": "code",
+      "source_file": "src\\main.tsx",
+      "source_location": "L1",
+      "id": "src_main_tsx",
+      "community": 1,
+      "norm_label": "main.tsx"
+    },
+    {
+      "label": "MedicalDisclaimer.tsx",
+      "file_type": "code",
+      "source_file": "src\\components\\shared\\MedicalDisclaimer.tsx",
+      "source_location": "L1",
+      "id": "src_components_shared_medicaldisclaimer_tsx",
+      "community": 17,
+      "norm_label": "medicaldisclaimer.tsx"
+    },
+    {
+      "label": "MedicalDisclaimer()",
+      "file_type": "code",
+      "source_file": "src\\components\\shared\\MedicalDisclaimer.tsx",
+      "source_location": "L3",
+      "id": "medicaldisclaimer_medicaldisclaimer",
+      "community": 17,
+      "norm_label": "medicaldisclaimer()"
+    },
+    {
+      "label": "IntakeForm.tsx",
+      "file_type": "code",
+      "source_file": "src\\components\\trial\\IntakeForm.tsx",
+      "source_location": "L1",
+      "id": "src_components_trial_intakeform_tsx",
+      "community": 8,
+      "norm_label": "intakeform.tsx"
+    },
+    {
+      "label": "next()",
+      "file_type": "code",
+      "source_file": "src\\components\\trial\\IntakeForm.tsx",
+      "source_location": "L56",
+      "id": "intakeform_next",
+      "community": 8,
+      "norm_label": "next()"
+    },
+    {
+      "label": "prev()",
+      "file_type": "code",
+      "source_file": "src\\components\\trial\\IntakeForm.tsx",
+      "source_location": "L57",
+      "id": "intakeform_prev",
+      "community": 8,
+      "norm_label": "prev()"
+    },
+    {
+      "label": "TrialCard.tsx",
+      "file_type": "code",
+      "source_file": "src\\components\\trial\\TrialCard.tsx",
+      "source_location": "L1",
+      "id": "src_components_trial_trialcard_tsx",
+      "community": 18,
+      "norm_label": "trialcard.tsx"
+    },
+    {
+      "label": "TrialCard()",
+      "file_type": "code",
+      "source_file": "src\\components\\trial\\TrialCard.tsx",
+      "source_location": "L18",
+      "id": "trialcard_trialcard",
+      "community": 18,
+      "norm_label": "trialcard()"
+    },
+    {
+      "label": "TrialDetails.tsx",
+      "file_type": "code",
+      "source_file": "src\\components\\trial\\TrialDetails.tsx",
+      "source_location": "L1",
+      "id": "src_components_trial_trialdetails_tsx",
+      "community": 21,
+      "norm_label": "trialdetails.tsx"
+    },
+    {
+      "label": "api.ts",
+      "file_type": "code",
+      "source_file": "src\\lib\\api.ts",
+      "source_location": "L1",
+      "id": "src_lib_api_ts",
+      "community": 3,
+      "norm_label": "api.ts"
+    },
+    {
+      "label": "searchTrials()",
+      "file_type": "code",
+      "source_file": "src\\lib\\api.ts",
+      "source_location": "L7",
+      "id": "api_searchtrials",
+      "community": 3,
+      "norm_label": "searchtrials()"
+    },
+    {
+      "label": "analyzeTrial()",
+      "file_type": "code",
+      "source_file": "src\\lib\\api.ts",
+      "source_location": "L42",
+      "id": "api_analyzetrial",
+      "community": 3,
+      "norm_label": "analyzetrial()"
+    },
+    {
+      "label": "fetchTrialById()",
+      "file_type": "code",
+      "source_file": "src\\lib\\api.ts",
+      "source_location": "L108",
+      "id": "api_fetchtrialbyid",
+      "community": 3,
+      "norm_label": "fetchtrialbyid()"
+    },
+    {
+      "label": "storage.ts",
+      "file_type": "code",
+      "source_file": "src\\lib\\storage.ts",
+      "source_location": "L1",
+      "id": "src_lib_storage_ts",
+      "community": 22,
+      "norm_label": "storage.ts"
+    },
+    {
+      "label": "index.ts",
+      "file_type": "code",
+      "source_file": "src\\types\\index.ts",
+      "source_location": "L1",
+      "id": "src_types_index_ts",
+      "community": 23,
+      "norm_label": "index.ts"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server.ts",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "server_ts",
+      "_tgt": "server_startserver",
+      "source": "server_ts",
+      "target": "server_startserver",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\badge.tsx",
+      "source_location": "L30",
+      "weight": 1.0,
+      "_src": "components_ui_badge_tsx",
+      "_tgt": "badge_badge",
+      "source": "components_ui_badge_tsx",
+      "target": "badge_badge",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "components\\ui\\badge.tsx",
+      "source_location": "L40",
+      "weight": 1.0,
+      "_src": "badge_badge",
+      "_tgt": "utils_cn",
+      "source": "badge_badge",
+      "target": "utils_cn"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\button.tsx",
+      "source_location": "L52",
+      "weight": 1.0,
+      "_src": "components_ui_button_tsx",
+      "_tgt": "button_cn",
+      "source": "components_ui_button_tsx",
+      "target": "button_cn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\card.tsx",
+      "source_location": "L40",
+      "weight": 1.0,
+      "_src": "components_ui_card_tsx",
+      "_tgt": "card_cn",
+      "source": "components_ui_card_tsx",
+      "target": "card_cn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\card.tsx",
+      "source_location": "L59",
+      "weight": 1.0,
+      "_src": "components_ui_card_tsx",
+      "_tgt": "card_cardaction",
+      "source": "components_ui_card_tsx",
+      "target": "card_cardaction",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\checkbox.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "components_ui_checkbox_tsx",
+      "_tgt": "checkbox_checkbox",
+      "source": "components_ui_checkbox_tsx",
+      "target": "checkbox_checkbox",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\dialog.tsx",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_src": "components_ui_dialog_tsx",
+      "_tgt": "dialog_dialog",
+      "source": "components_ui_dialog_tsx",
+      "target": "dialog_dialog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\dialog.tsx",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_src": "components_ui_dialog_tsx",
+      "_tgt": "dialog_dialogtrigger",
+      "source": "components_ui_dialog_tsx",
+      "target": "dialog_dialogtrigger",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\dialog.tsx",
+      "source_location": "L18",
+      "weight": 1.0,
+      "_src": "components_ui_dialog_tsx",
+      "_tgt": "dialog_dialogportal",
+      "source": "components_ui_dialog_tsx",
+      "target": "dialog_dialogportal",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\dialog.tsx",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_src": "components_ui_dialog_tsx",
+      "_tgt": "dialog_dialogclose",
+      "source": "components_ui_dialog_tsx",
+      "target": "dialog_dialogclose",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\dialog.tsx",
+      "source_location": "L104",
+      "weight": 1.0,
+      "_src": "components_ui_dialog_tsx",
+      "_tgt": "dialog_cn",
+      "source": "components_ui_dialog_tsx",
+      "target": "dialog_cn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\input.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "components_ui_input_tsx",
+      "_tgt": "input_input",
+      "source": "components_ui_input_tsx",
+      "target": "input_input",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\label.tsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "components_ui_label_tsx",
+      "_tgt": "label_cn",
+      "source": "components_ui_label_tsx",
+      "target": "label_cn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\progress.tsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "components_ui_progress_tsx",
+      "_tgt": "progress_progress",
+      "source": "components_ui_progress_tsx",
+      "target": "progress_progress",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\progress.tsx",
+      "source_location": "L28",
+      "weight": 1.0,
+      "_src": "components_ui_progress_tsx",
+      "_tgt": "progress_progresstrack",
+      "source": "components_ui_progress_tsx",
+      "target": "progress_progresstrack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\scroll-area.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "components_ui_scroll_area_tsx",
+      "_tgt": "scroll_area_scrollarea",
+      "source": "components_ui_scroll_area_tsx",
+      "target": "scroll_area_scrollarea",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\scroll-area.tsx",
+      "source_location": "L29",
+      "weight": 1.0,
+      "_src": "components_ui_scroll_area_tsx",
+      "_tgt": "scroll_area_scrollbar",
+      "source": "components_ui_scroll_area_tsx",
+      "target": "scroll_area_scrollbar",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\select.tsx",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_src": "components_ui_select_tsx",
+      "_tgt": "select_selectgroup",
+      "source": "components_ui_select_tsx",
+      "target": "select_selectgroup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\select.tsx",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_src": "components_ui_select_tsx",
+      "_tgt": "select_selectvalue",
+      "source": "components_ui_select_tsx",
+      "target": "select_selectvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\select.tsx",
+      "source_location": "L31",
+      "weight": 1.0,
+      "_src": "components_ui_select_tsx",
+      "_tgt": "select_selecttrigger",
+      "source": "components_ui_select_tsx",
+      "target": "select_selecttrigger",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\select.tsx",
+      "source_location": "L59",
+      "weight": 1.0,
+      "_src": "components_ui_select_tsx",
+      "_tgt": "select_selectcontent",
+      "source": "components_ui_select_tsx",
+      "target": "select_selectcontent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\select.tsx",
+      "source_location": "L98",
+      "weight": 1.0,
+      "_src": "components_ui_select_tsx",
+      "_tgt": "select_selectlabel",
+      "source": "components_ui_select_tsx",
+      "target": "select_selectlabel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\select.tsx",
+      "source_location": "L111",
+      "weight": 1.0,
+      "_src": "components_ui_select_tsx",
+      "_tgt": "select_selectitem",
+      "source": "components_ui_select_tsx",
+      "target": "select_selectitem",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\select.tsx",
+      "source_location": "L139",
+      "weight": 1.0,
+      "_src": "components_ui_select_tsx",
+      "_tgt": "select_selectseparator",
+      "source": "components_ui_select_tsx",
+      "target": "select_selectseparator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\select.tsx",
+      "source_location": "L152",
+      "weight": 1.0,
+      "_src": "components_ui_select_tsx",
+      "_tgt": "select_selectscrollupbutton",
+      "source": "components_ui_select_tsx",
+      "target": "select_selectscrollupbutton",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\select.tsx",
+      "source_location": "L171",
+      "weight": 1.0,
+      "_src": "components_ui_select_tsx",
+      "_tgt": "select_selectscrolldownbutton",
+      "source": "components_ui_select_tsx",
+      "target": "select_selectscrolldownbutton",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\separator.tsx",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_src": "components_ui_separator_tsx",
+      "_tgt": "separator_cn",
+      "source": "components_ui_separator_tsx",
+      "target": "separator_cn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\tabs.tsx",
+      "source_location": "L60",
+      "weight": 1.0,
+      "_src": "components_ui_tabs_tsx",
+      "_tgt": "tabs_cn",
+      "source": "components_ui_tabs_tsx",
+      "target": "tabs_cn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components\\ui\\textarea.tsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "components_ui_textarea_tsx",
+      "_tgt": "textarea_cn",
+      "source": "components_ui_textarea_tsx",
+      "target": "textarea_cn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib\\utils.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_src": "lib_utils_ts",
+      "_tgt": "utils_cn",
+      "source": "lib_utils_ts",
+      "target": "utils_cn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src\\App.tsx",
+      "source_location": "L99",
+      "weight": 1.0,
+      "_src": "src_app_tsx",
+      "_tgt": "app_showtoast",
+      "source": "src_app_tsx",
+      "target": "app_showtoast",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src\\App.tsx",
+      "source_location": "L129",
+      "weight": 1.0,
+      "_src": "src_app_tsx",
+      "_tgt": "app_handledemo",
+      "source": "src_app_tsx",
+      "target": "app_handledemo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src\\App.tsx",
+      "source_location": "L134",
+      "weight": 1.0,
+      "_src": "src_app_tsx",
+      "_tgt": "app_handledemoinstant",
+      "source": "src_app_tsx",
+      "target": "app_handledemoinstant",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src\\App.tsx",
+      "source_location": "L209",
+      "weight": 1.0,
+      "_src": "src_app_tsx",
+      "_tgt": "app_startintake",
+      "source": "src_app_tsx",
+      "target": "app_startintake",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src\\App.tsx",
+      "source_location": "L214",
+      "weight": 1.0,
+      "_src": "src_app_tsx",
+      "_tgt": "app_handleintakesubmit",
+      "source": "src_app_tsx",
+      "target": "app_handleintakesubmit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src\\App.tsx",
+      "source_location": "L232",
+      "weight": 1.0,
+      "_src": "src_app_tsx",
+      "_tgt": "app_analyzeindividualtrial",
+      "source": "src_app_tsx",
+      "target": "app_analyzeindividualtrial",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src\\App.tsx",
+      "source_location": "L241",
+      "weight": 1.0,
+      "_src": "src_app_tsx",
+      "_tgt": "app_handletrialclick",
+      "source": "src_app_tsx",
+      "target": "app_handletrialclick",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src\\App.tsx",
+      "source_location": "L246",
+      "weight": 1.0,
+      "_src": "src_app_tsx",
+      "_tgt": "app_togglesavetrial",
+      "source": "src_app_tsx",
+      "target": "app_togglesavetrial",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src\\App.tsx",
+      "source_location": "L286",
+      "weight": 1.0,
+      "_src": "src_app_tsx",
+      "_tgt": "app_showfooterinfo",
+      "source": "src_app_tsx",
+      "target": "app_showfooterinfo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src\\main.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "src_main_tsx",
+      "_tgt": "src_app_tsx",
+      "source": "src_app_tsx",
+      "target": "src_main_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "src\\App.tsx",
+      "source_location": "L135",
+      "weight": 1.0,
+      "_src": "app_handledemoinstant",
+      "_tgt": "app_handleintakesubmit",
+      "source": "app_handledemoinstant",
+      "target": "app_handleintakesubmit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src\\App.tsx",
+      "source_location": "L217",
+      "weight": 1.0,
+      "_src": "app_handleintakesubmit",
+      "_tgt": "api_searchtrials",
+      "source": "app_handleintakesubmit",
+      "target": "api_searchtrials"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src\\App.tsx",
+      "source_location": "L233",
+      "weight": 1.0,
+      "_src": "app_analyzeindividualtrial",
+      "_tgt": "api_analyzetrial",
+      "source": "app_analyzeindividualtrial",
+      "target": "api_analyzetrial"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src\\components\\shared\\MedicalDisclaimer.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "src_components_shared_medicaldisclaimer_tsx",
+      "_tgt": "medicaldisclaimer_medicaldisclaimer",
+      "source": "src_components_shared_medicaldisclaimer_tsx",
+      "target": "medicaldisclaimer_medicaldisclaimer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src\\components\\trial\\IntakeForm.tsx",
+      "source_location": "L56",
+      "weight": 1.0,
+      "_src": "src_components_trial_intakeform_tsx",
+      "_tgt": "intakeform_next",
+      "source": "src_components_trial_intakeform_tsx",
+      "target": "intakeform_next",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src\\components\\trial\\IntakeForm.tsx",
+      "source_location": "L57",
+      "weight": 1.0,
+      "_src": "src_components_trial_intakeform_tsx",
+      "_tgt": "intakeform_prev",
+      "source": "src_components_trial_intakeform_tsx",
+      "target": "intakeform_prev",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src\\components\\trial\\TrialCard.tsx",
+      "source_location": "L18",
+      "weight": 1.0,
+      "_src": "src_components_trial_trialcard_tsx",
+      "_tgt": "trialcard_trialcard",
+      "source": "src_components_trial_trialcard_tsx",
+      "target": "trialcard_trialcard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src\\lib\\api.ts",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "src_lib_api_ts",
+      "_tgt": "api_searchtrials",
+      "source": "src_lib_api_ts",
+      "target": "api_searchtrials",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src\\lib\\api.ts",
+      "source_location": "L42",
+      "weight": 1.0,
+      "_src": "src_lib_api_ts",
+      "_tgt": "api_analyzetrial",
+      "source": "src_lib_api_ts",
+      "target": "api_analyzetrial",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src\\lib\\api.ts",
+      "source_location": "L108",
+      "weight": 1.0,
+      "_src": "src_lib_api_ts",
+      "_tgt": "api_fetchtrialbyid",
+      "source": "src_lib_api_ts",
+      "target": "api_fetchtrialbyid",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}
