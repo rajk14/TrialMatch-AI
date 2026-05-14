@@ -3,6 +3,9 @@
 
 TrialMatch AI is a patient-centered platform designed to bridge the gap between complex clinical trial data and patients seeking life-saving treatments. Using Google Gemini 3.1 and the official ClinicalTrials.gov API, we provide a personalized matching experience with plain-language explanations.
 
+## 📹 Demo Video
+Watch the full guide and preview of the application here: [TrialMatch AI Demo](https://youtu.be/ATPFExkCg6U?si=M5-5_EeNRnCAuFRs)
+
 ## 🚀 Features
 - **Smart Patient Intake**: A guided medical form that captures the essential nuances of a patient's profile.
 - **AI-Powered Eligibility Analysis**: Uses Gemini to analyze dense inclusion/exclusion criteria against the patient's medical history.
